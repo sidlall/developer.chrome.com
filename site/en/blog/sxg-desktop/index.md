@@ -63,7 +63,7 @@ Cloudflare, a leading Content Distribution Network (CDNs), [ran an experiment](h
 
 - **41% LCP improvement** for Narcity.
 - **27% increase in sessions per user** for Paper Magazine.
-- **21% decrease in loading time** for MLT blog.
+- **21% decrease in loading time** for MTL blog.
 {% endAside %}
 
 ## Google Search support for Top Stories and News
